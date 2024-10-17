@@ -21,3 +21,7 @@
 ---
 
 ## Model
+
+<img src="Document_Images/model.png">
+
+---
